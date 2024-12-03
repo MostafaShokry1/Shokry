@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Shokry/static/css/main.16a0f810.css",
-    "main.js": "/Shokry/static/js/main.24084a96.js",
+    "main.js": "/Shokry/static/js/main.a654da40.js",
     "static/media/fa-solid-900.ttf": "/Shokry/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/slider-image-1.jpeg": "/Shokry/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
     "static/media/fa-brands-400.ttf": "/Shokry/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
@@ -21,10 +21,10 @@
     "static/media/slick.woff": "/Shokry/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Shokry/index.html",
     "main.16a0f810.css.map": "/Shokry/static/css/main.16a0f810.css.map",
-    "main.24084a96.js.map": "/Shokry/static/js/main.24084a96.js.map"
+    "main.a654da40.js.map": "/Shokry/static/js/main.a654da40.js.map"
   },
   "entrypoints": [
     "static/css/main.16a0f810.css",
-    "static/js/main.24084a96.js"
+    "static/js/main.a654da40.js"
   ]
 }
